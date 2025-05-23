@@ -1,6 +1,6 @@
-# Library Management Systsem
+# Task Manager
 
-A simple system to manage books and members of a library using OOP principles.
+A task manager to create, update, complete, and list tasks.
 
 Technolgoies used: Typescript, Node JS.
 
@@ -19,7 +19,7 @@ Steps to take:
 npx tsc init
 ```
 
-- create classes like: Library, Members and Books and build your logic.
+- Define the Task class and build your logic .
 - compile your typescript files to javascript and run:
 
 ```bash
