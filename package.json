@@ -1,0 +1,23 @@
+{
+  "name": "week_2_assignment_task-manager",
+  "version": "1.0.0",
+  "description": "A task manager to create, update, complete, and list tasks.",
+  "homepage": "https://github.com/Amiele2006/Task-management-System.#readme",
+  "bugs": {
+    "url": "https://github.com/Amiele2006/Task-management-System./issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amiele2006/Task-management-System..git"
+  },
+  "license": "ISC",
+  "author": "mimi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
